@@ -1,0 +1,31 @@
+    # Virtual environment
+    venv/
+    .venv/
+
+    # Compiled Python bytecode
+    __pycache__/
+    *.pyc
+    *.pyo
+
+    # Editor/IDE specific files
+    .idea/
+    .vscode/
+    *.sublime-project
+
+    # Log files
+    *.log
+
+    # Database
+    db.sqlite3
+
+    # Media and uploaded files
+    media/
+    static_root/
+
+    # Sensitive information (example)
+    config_local.py
+    .env
+
+    # Build artifacts
+    build/
+    dist/
