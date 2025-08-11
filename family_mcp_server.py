@@ -24,13 +24,13 @@ class FamilyDetails:
                 "sister": "liss, joe",
                 "spouse":""
             },
-            "Ben": {
+            "ben": {
                 "mother": "lenny",
                 "father": "jimmy",
                 "sister": "dan, gilchrist",
                 "spouse": "jasmine"
             },
-            "Siva": {
+            "siva": {
                 "mother": "",
                 "father": "",
                 "son": "murugan, ayyapan, ganapathy",
